@@ -1,6 +1,6 @@
 **<h1 style="text-align: center;">Resistive Circuit Solver</h1>**
 
-## Access this web app at [https://cs.vkvbit.me](https://cs.vkvbit.me)
+## Access this web app at [https://cs.vkvbit.live](https://cs.vkvbit.live)
 
 **Have you ever fed up of solving complicated circuits with lots of bridges and pillars ?**
 
